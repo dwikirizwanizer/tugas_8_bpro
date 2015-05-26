@@ -1,0 +1,7 @@
+tugas cetak printer daftar isi
+
+BAB 1 : QWERTY......................1
+BAB 2 : ASDFGHJK....................4
+BAB 3 : ZXCVBNMTGJJHF...............9
+BAB 4 : RIVHDK......................12
+BAB 5 : IMRHVFIDJT..................16
